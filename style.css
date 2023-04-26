@@ -1,0 +1,16 @@
+.height {
+    height: 100px;
+}
+.main {
+    text-decoration: underline
+    blanchedalmond
+    
+}
+.img1 {
+    background: url("img/main_img.jpg")
+    no-repeat center
+}
+.input {
+    background-color: transparent;
+    color: bisque;
+}
